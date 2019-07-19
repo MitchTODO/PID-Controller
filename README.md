@@ -15,12 +15,6 @@ Self-Driving Car Engineer Nanodegree Program
 
         PID.h (defined PID variables)
 
-#### DIR /readmePic
-
-        Contains (Videos and Pictures for readme )
-
-
-
 ---
 
 ## Dependencies
